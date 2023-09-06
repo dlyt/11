@@ -1,0 +1,11 @@
+{
+  "branch": "fix-erasing-trace",
+  "changes": [
+    {
+      "path": "dist/fabric.js",
+      "type": "M"
+    }
+  ],
+  "tag": "v510-63-g4b37faff",
+  "user": "ShaMan123"
+}
